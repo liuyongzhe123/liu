@@ -1,1 +1,1 @@
-printf("nihuai\n");
+printf("ni别人huai\n");
